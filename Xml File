@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "Suit Test" verbose="3">
+<test name = "Run all test case once">
+<classes>
+<class name = "testNG.ParalleltestingExample"></class>
+</classes>
+</test>
+</suite>
