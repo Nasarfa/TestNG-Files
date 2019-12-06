@@ -11,7 +11,7 @@ public class Testsuit {
 	long starttime;
 	long endtime;
 		
-	//1.open google 2.open bingo 3.open yahoo
+	
 	@BeforeSuite
 	public void openBrowser(){
 		starttime=System.currentTimeMillis();
