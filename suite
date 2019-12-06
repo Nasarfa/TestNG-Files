@@ -10,7 +10,7 @@ public class Testsuit {
 	WebDriver driver;
 	long starttime;
 	long endtime;
-		//our aim to open chrome
+		
 	//1.open google 2.open bingo 3.open yahoo
 	@BeforeSuite
 	public void openBrowser(){
