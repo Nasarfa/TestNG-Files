@@ -10,7 +10,7 @@ public class Testsuit {
 	WebDriver driver;
 	long starttime;
 	long endtime;
-		//browser add der
+		
 	
 	@BeforeSuite
 	public void openBrowser(){
